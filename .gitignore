@@ -1,4 +1,5 @@
-build/
+.bsp/
+target/
 
 # IDEA ignore list
 .idea/*
